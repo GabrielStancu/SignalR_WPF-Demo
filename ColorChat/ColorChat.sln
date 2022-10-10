@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorChat.WPF", "ColorChat.WPF\ColorChat.WPF.csproj", "{BABE253F-4413-4CD8-BEF3-80FBF1312039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorChat.Domain", "ColorChat.Domain\ColorChat.Domain.csproj", "{3A2DCBD4-1834-47D4-876C-8A2F49121EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorChat.SignalR", "ColorChat.SignalR\ColorChat.SignalR.csproj", "{94E3EA06-44A7-48AF-BE00-59A8AF81EAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABE253F-4413-4CD8-BEF3-80FBF1312039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABE253F-4413-4CD8-BEF3-80FBF1312039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABE253F-4413-4CD8-BEF3-80FBF1312039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABE253F-4413-4CD8-BEF3-80FBF1312039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2DCBD4-1834-47D4-876C-8A2F49121EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2DCBD4-1834-47D4-876C-8A2F49121EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2DCBD4-1834-47D4-876C-8A2F49121EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2DCBD4-1834-47D4-876C-8A2F49121EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E3EA06-44A7-48AF-BE00-59A8AF81EAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E3EA06-44A7-48AF-BE00-59A8AF81EAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E3EA06-44A7-48AF-BE00-59A8AF81EAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E3EA06-44A7-48AF-BE00-59A8AF81EAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC33D3B-983D-475B-A113-D81876C6F396}
+	EndGlobalSection
+EndGlobal
